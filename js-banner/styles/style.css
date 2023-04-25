@@ -88,3 +88,28 @@
   margin-top: 10px;
   margin-left: 20px;
 }
+
+/* counter */
+.counter {
+  border: 2px solid black;
+  padding: 20px;
+  width: 20%;
+  margin: 10px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.counter h2 {
+  font-size: 1.2rem;
+  text-align: center;
+}
+.counter button {
+  width: 50%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 20px;
+  padding: 5px;
+  border-style: none;
+}
